@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8Oy4s3cBCVLyMzEqC7H9uTjavZva3cA7sRhPvuNdbwc=",
+  "Source": "webApiPeople",
+  "BasePath": "_content/webApiPeople",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
